@@ -1,0 +1,5 @@
+# Chapter 1 #
+# Introduction #
+Before I even write a word about what is PowerShell and why you need to learn it, I will give a brief overview of how I got started with automation in general, how it led me into discovering PowerShell, and how I fell in love with that! I won't bore you with a full chapter containing just my history. I will make it really quick.
+
+I started in the IT industry back in 2001. My first job was in customer support and my role was to sit at a customer location and resolve their desktop and server issues. It was fun. I was a part of the outsourced team and therefore there was not much of scope for being creative. I just had to do what I was asked to do. Towards the end of that year, we lost the contract and I was placed at another client where, fortunately, I was the only administrator. And, that too, desktop, server, and network administrator. I know that it sounds a bit complicated but it was a blessing in disguise. For the first few days, I just went around the place and gathered as much as information I could around the state of their current IT systems and of course made a lot of new friends.  
